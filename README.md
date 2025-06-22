@@ -1,4 +1,4 @@
-# Teknofest Healthcare Artificial Intelligence Competition, Stroke Detection Task from MR images
+# Teknofest Healthcare Artificial Intelligence Competition, Stroke Detection Task from MR images - First Stage is PASSED
 #### ''' This repo is the repo that my teammates and I use, where we share codes and follow the development of the project. '''
 
 ## Dataset and Preprocessing
